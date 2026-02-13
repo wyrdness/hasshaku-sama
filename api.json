@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/hasshaku-sama",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "hasshaku-sama",
+    "name": "Hasshaku-sama (八尺様)",
+    "aliases": [],
+    "category": "INTERNET_URBAN_LEGEND",
+    "subcategory": "in contemporary context",
+    "tags": [
+      "protector-of-children-against-hasshaku-sama's-child-targeting"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The entity manifests as an impossibly tall woman, approximately eight shaku (roughly 2.",
+      "full": "The entity manifests as an impossibly tall woman, approximately eight shaku (roughly 2.4 meters or 8 feet) in height, dressed in a flowing white dress or kimono and wearing a wide-brimmed sun hat that obscures much of her face. Her most distinctive characteristic is her laugh—a deep, masculine, hollow sound: \\\"Po... po... po...\\\" This unsettling vocalization, coupled with her ability to imitate the voices of family members, creates an atmosphere of profound wrongness and violation of natural order. Hasshaku-sama is defined by her singular obsession: once she has \\\"seen\\\" a male child or adolescent, she becomes fixated on that individual, pursuing them relentlessly until she succeeds in abducting them. The victim is never seen again. Traditional protective barriers mean little to her—she can appear anywhere the child goes, mimicking voices to lure them out, though certain ritual protections can temporarily hold her at bay. The legend taps into primal fears: the predatory adult, the violation of sanctuary, the corruption of the maternal figure, and the helplessness of youth against supernatural malevolence. Its viral spread across Japanese and international internet communities demonstrates how traditional folklore structures can be reimagined and accelerated through digital media."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "INTERNET_URBAN_LEGEND",
+      "type": "in contemporary context",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
+}
